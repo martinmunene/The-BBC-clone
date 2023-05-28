@@ -1,0 +1,344 @@
+* {
+    margin: 0 auto;
+}
+
+
+/*top bar*/
+#topbar {
+    width: 1000px;
+    height: 35px;
+    border-top: 3px solid #E4E4E4;
+    padding: 0;
+}
+
+#logo {
+    position: relative;
+    float: left;
+    padding-top: 5px;
+}
+
+#border-sections {
+    height: 100%;
+    border-left: 1px #E4E4E4 solid;
+    float: left;
+    position: relative;
+    left: 10px;
+}
+
+#simage {
+    position: relative;
+    top: 5px;
+    left: 5px;
+    float: left;
+    
+}
+
+#bell {
+    position: relative;
+    margin: 5px 8px;
+    float: left;
+}
+
+#sign-in-text {
+    position: relative;
+    padding: 10px 10px;
+    float: left;
+    font-weight: bold;
+}
+
+.headers {
+    position: relative;
+    margin: 8px 8px 0px;
+    float: left;
+    font-size: 2%;
+    font-weight: bold;
+}
+
+#more {
+    padding: 4px;
+    float: left;
+}
+
+.sach {
+    position: relative;
+    left: 10px;
+    top: 5px;
+    z-index: 1;
+    background-color: #E4E4E4;
+    border: none;
+    width: 172PX;
+    height: 25px;
+    float: left;
+    font-weight: bold;
+}
+
+#search {
+    position: relative;
+    background-color: #E4E4E4;
+    padding: 4px;
+    height: 19px;
+    width: 25px;
+    z-index: 2;
+    top: 5px;
+    left: 10px;
+}
+
+.claer-float {
+    clear: both;
+}
+
+
+/* The second bar*/
+
+.second-bar{
+    background-color: #BB1919;
+    height: 70px;
+    width: 100%;
+}
+
+#text-link {
+    width: 1000px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+}
+
+#text {
+    color: white;
+    position: relative;
+    float: left;
+    font-size: 25px;
+    
+    
+}
+#link {
+    color: white;
+    text-decoration: none;
+}
+
+
+#link:hover {
+    text-decoration: underline;
+}
+
+
+.local-news {
+    float: right;
+    color: white;
+    position: relative;
+    right: 30px;
+    border: 0.5px #c45e5e solid;
+    padding: 5px 10px;
+    font-size: 23px;
+    top: 8px;
+}
+
+
+#loc {
+    position: relative;
+   top: 4px;
+   padding-right: 3px;
+   width: 12px;
+}
+
+
+
+/*The third bir*/
+
+.third-bar {
+    height: 40px;
+    width: 100%;
+    background-color: #A91717;
+    position: relative;
+    margin: 0 auto;
+
+}
+
+#sections {
+    width: 1000px;
+    height: 40px;
+    
+    
+}
+
+#sections a {
+    position: relative;
+    top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: white;
+    border-right: 1px #c45e5e solid;
+    float: left;
+}
+
+ .no-border {
+    border-style: none !important;
+}
+
+#more1 {
+    position: relative;
+    top: 10px;
+}
+
+
+/* The second section*/
+.second-sec {
+    width: 1000px;
+    margin: 0 auto;
+   
+}
+#inner {
+    float: left;
+}
+
+h2 {
+    font-weight: normal;
+    position: relative;
+    float: left;
+    top: 10px;
+    font-size: 20px;
+    border-bottom: 3px solid #A91717;
+    width: 100px;   
+}
+
+#contect {
+    float: left;
+    position: relative;
+    top: 20px;
+    border-right: 1px solid #5a5a5a;
+    padding-right: 10px;
+    
+
+}
+
+#contect a {
+    text-decoration: none;
+    color: black;
+
+}
+
+#contect a:hover {
+ color: cornflowerblue;
+}
+
+#contect p {
+    width: 250px;
+    float: left;
+    text-align: justify;
+    margin-top: 10px;
+    color: #5a5a5a;
+}
+
+#contect img {
+    margin-left: 20px;
+}
+
+#time {
+    position: relative;
+    top: -70px;
+    margin-left: 25px;
+    
+}
+
+
+
+#time a {
+    text-decoration: none;
+    color: #A61B1B;
+    border-left: 1px solid #5a5a5a;
+    padding-left: 8px;
+}
+
+#time a:hover {
+    color: cornflowerblue;
+}
+#hr1 {
+    width: 50px;
+    border-color: #A61B1B;
+    position: relative;
+    float: left;
+    top: -65px;
+}
+
+#two {
+    border-bottom: 1px solid #5a5a5a;;
+}
+
+#pa {
+    width: 250px;
+    position: relative;
+    right: 220px;
+    top: -30px;
+    text-align: justify;
+}
+#pa a {
+    text-decoration: none;
+    color: black;
+}
+
+#pa a:hover {
+    color: cornflowerblue;
+}
+
+#hr2 {
+    position: relative;
+    width: 680px;
+    right: 4px;
+}
+
+/*The right side*/
+  
+#Whatch-listen {
+    font-weight: normal;
+    position: relative;
+   left: 15px;
+   font-size: 25px;
+   margin-top: 10px;
+}
+
+#righr-side img {
+    margin: 10mpx 5px;
+    float: left;
+}
+
+#hour {
+text-align: center;
+margin-top: 10px;
+}
+
+#h5 {
+    position: relative;
+    top: 10px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+#h5:hover {
+    color: cornflowerblue;
+}
+
+/* ssssss*/
+
+
+#imgb {
+    float: left;
+    position: relative;
+    padding-top: 25px;
+    right: 123px;
+    
+}
+
+    
+    
+    #h6 {
+        position: relative;
+        top: -70px;
+        left: 20px;
+        text-decoration: none;
+        color: black;
+        float: right;
+        width: 200px;
+    }
+
